@@ -1,0 +1,2 @@
+_AvgRewardSum,_AvgDiscountedRewardSum,_mean_obs,_min_obs,_max_obs,_std_obs,_mean_act,_min_act,_max_act,_std_act,_mean_adv,_min_adv,_max_adv,_std_adv,_mean_discrew,_min_discrew,_max_discrew,_std_discrew,_Episode,ValFuncLoss,ExplainedVarNew,ExplainedVarOld
+-709.8373,-36.84507616066769,250.958,4,496,19139.170236,2.4795,0,5,2.99857975,-2.1316282072803005e-16,-3.2829350970871785,3.334563698719374,0.9999997981061529,-33.83383706016668,-66.35456298617981,-0.835303544998169,98.12635254716233,10,1050.4271340998403,-4.179451451591376e-09,-1.7146849717875057e-07
